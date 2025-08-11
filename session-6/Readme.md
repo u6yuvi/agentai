@@ -1,0 +1,1 @@
+uv run talk2mcp.py
